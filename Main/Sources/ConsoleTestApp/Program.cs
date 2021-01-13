@@ -65,7 +65,6 @@ namespace ConsoleTestApp
 			Caretaker<ProcessStateEnum>.SaveState(originator);
 			originator.ShowState();
 
-
 			Caretaker<ProcessStateEnum>.RestoreState(originator, 0);
 			originator.ShowState();
 

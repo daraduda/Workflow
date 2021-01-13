@@ -1,8 +1,8 @@
-﻿using Domain.Enums;
+﻿using Domain;
+using Domain.Enums;
 using Domain.Interfaces;
-using Lib;
 
-namespace Domain
+namespace Lib
 {
 	public class Movement<T> where T : Entity<int>, IMovement
 	{

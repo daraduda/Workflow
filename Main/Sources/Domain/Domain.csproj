@@ -49,7 +49,6 @@
     <Compile Include="Devices\ScannerA.cs" />
     <Compile Include="Devices\ScannerB.cs" />
     <Compile Include="Entity.cs" />
-    <Compile Include="EntityObject.cs" />
     <Compile Include="Enums\CommandEnum.cs" />
     <Compile Include="Enums\ProcessStateEnum.cs" />
     <Compile Include="Interfaces\IMovement.cs" />
